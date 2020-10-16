@@ -25,4 +25,4 @@ utilization of remote sensing and finds application in a wide range of tasks lik
 inspections, deforestation assessment, land use analysis, disaster assessment and monitoring
 many other environmental/man-made changes
 
-Implemented from this 
+Implemented from this [Paper](https://github.com/voodooed/Unsupervised-Change-Detection/blob/main/CD1.pdf)
